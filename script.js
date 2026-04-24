@@ -106,11 +106,11 @@ class Entry {
     }
 
     // fallback if image fails
-    //this.img.onerror = () => {
-    //  this.img.src = 'entries/missingno.png';
-    //  this.alignBottom = 0;
-    //  this.alignTop = 0;
-    //};
+    this.img.onerror = () => {
+      this.img.src = 'entries/missingno.png';
+      this.alignBottom = 0;
+      this.alignTop = 0;
+    };
     this.img.onload = () => {
       const naturalHeight = this.img.naturalHeight;
 
@@ -121,8 +121,6 @@ class Entry {
       this.alignTop = this.alignTop * scale;
 
       this.img.style.height = (naturalHeight * scale) + "px";
-      //this.imageWrapper.style.transform = `translateY(${this.alignBottom * scale}px)`;
-      //this.textWrapper.style.transform = `translateY(${this.alignBottom * scale}px)`;
     };
 
     this.titleEl = document.createElement('div');
