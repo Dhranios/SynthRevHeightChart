@@ -124,6 +124,14 @@
             "align_top": 32
         },
         {
+            "owner": "coletheproto",
+            "name": "Cole",
+            "height": "5'8.5''",
+            "art": "cole",
+            "align_bottom": 2,
+            "align_top": 58
+        },
+        {
             "owner": "connor100500",
             "name": "C0r3",
             "height": "8'6''",
@@ -165,7 +173,7 @@
         },
         {
             "owner": "darksoulz48",
-            "name": "Rulo'th (dralox form)",
+            "name": "Rulo'th (dralox)",
             "height": "12'0''",
             "art": "ruloth dralox",
             "align_bottom": 467,
@@ -173,11 +181,27 @@
         },
         {
             "owner": "darksoulz48",
-            "name": "Rulo'th (xenojiiva form)",
+            "name": "Rulo'th (mega charizard X)",
+            "height": "9'8''",
+            "art": "ruloth mega charizard x",
+            "align_bottom": 100,
+            "align_top": 313
+        },
+        {
+            "owner": "darksoulz48",
+            "name": "Rulo'th (xenojiiva)",
             "height": "6'8''",
             "art": "ruloth xenojiiva",
             "align_bottom": 79,
             "align_top": 406
+        },
+        {
+            "owner": "darksoulz48",
+            "name": "Rulo'th (goodra)",
+            "height": "5'6''",
+            "art": "ruloth goodra",
+            "align_bottom": 153,
+            "align_top": 295
         },
         {
             "owner": "dhranios",
@@ -308,6 +332,14 @@
             "align_top": 116
         },
         {
+            "owner": "flexx140408",
+            "name": "Felix",
+            "height": "6'4''",
+            "art": "felix",
+            "align_bottom": 78,
+            "align_top": 126
+        },
+        {
             "owner": "frostytd",
             "name": "Echo-7193",
             "height": "10'2''",
@@ -357,11 +389,27 @@
         },
         {
             "owner": "johnhunyadi",
-            "name": "Sapphire",
+            "name": "Sapphire (dragon)",
+            "height": "35'0''",
+            "art": "sapphire dragon",
+            "align_bottom": 26,
+            "align_top": 362
+        },
+        {
+            "owner": "johnhunyadi",
+            "name": "Sapphire (synth)",
             "height": "10'0''",
-            "art": "sapphire",
+            "art": "sapphire synth",
             "align_bottom": 42,
             "align_top": 71
+        },
+        {
+            "owner": "kapxl",
+            "name": "Kap",
+            "height": "6'6''",
+            "art": "kap",
+            "align_bottom": 24,
+            "align_top": 197
         },
         {
             "owner": "kasher_cs",
@@ -501,6 +549,14 @@
         },
         {
             "owner": "mysterycutie0622",
+            "name": "Knox",
+            "height": "5'4''",
+            "art": "knox",
+            "align_bottom": 25,
+            "align_top": 56
+        },
+        {
+            "owner": "mysterycutie0622",
             "name": "Lyre (doggo)",
             "height": "5'4''",
             "art": "lyre doggo",
@@ -626,6 +682,14 @@
             "art": "bizmut",
             "align_bottom": 89,
             "align_top": 314
+        },
+        {
+            "owner": "smoofs2.0",
+            "name": "Ryzen",
+            "height": "7'5''",
+            "art": "ryzen",
+            "align_bottom": 43,
+            "align_top": 70
         },
         {
             "owner": "spectre9817",
@@ -779,6 +843,14 @@
             "art": "warp",
             "align_bottom": 236,
             "align_top": 68
+        },
+        {
+            "owner": "winter1277",
+            "name": "Rho",
+            "height": "4'3''",
+            "art": "rho",
+            "align_bottom": 63,
+            "align_top": 11
         },
         {
             "owner": "xander_",
