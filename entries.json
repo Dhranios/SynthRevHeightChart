@@ -1,0 +1,881 @@
+{
+    "chart": "Synth Revolution Discord",
+    "entries": [
+        {
+            "owner": "onyxthedragon",
+            "owner_name": ".onyxthedragon",
+            "name": "Onyx",
+            "height": "7'6''",
+            "art": "onyx",
+            "align_bottom": 71,
+            "align_top": 245
+        },
+        {
+            "owner": "_andarithedragon_",
+            "name": "Andari",
+            "height": "1'5''",
+            "art": "andari",
+            "align_bottom": 711,
+            "align_top": 673
+        },
+        {
+            "owner": "akolyteaki",
+            "name": "Aki",
+            "height": "11'0''",
+            "art": "aki",
+            "align_bottom": 207,
+            "align_top": 255
+        },
+        {
+            "owner": "azimuth_dragon",
+            "name": "Athena",
+            "height": "18'0''",
+            "art": "athena",
+            "align_bottom": 173,
+            "align_top": 205
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "DEFCON (orbital)",
+            "height": "15'5''",
+            "art": "defcon orbital",
+            "align_bottom": 9,
+            "align_top": 79
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "DEFCON (shark)",
+            "height": "12'0''",
+            "art": "defcon shark",
+            "align_bottom": 2,
+            "align_top": 13
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "DEFCON (hunter)",
+            "height": "11'0''",
+            "art": "defcon hunter",
+            "align_bottom": 2,
+            "align_top": 13
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "Bismarck",
+            "height": "8'6''",
+            "art": "bismarck",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "Intrepid",
+            "height": "8'6''",
+            "art": "intrepid",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "Leningrad",
+            "height": "8'6''",
+            "art": "leningrad",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "Devilfish",
+            "height": "7'10''",
+            "art": "devilfish",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "Kreig",
+            "height": "7'10''",
+            "art": "kreig",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "bismarckthesynth",
+            "name": "Whiskey",
+            "height": "7'10''",
+            "art": "whiskey",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "boristhesynth",
+            "name": "König",
+            "height": "9'7''",
+            "art": "konig",
+            "align_bottom": 52,
+            "align_top": 29
+        },
+        {
+            "owner": "buckyskig",
+            "name": "Bucky",
+            "height": "159",
+            "art": "bucky",
+            "align_bottom": 21,
+            "align_top": 32
+        },
+        {
+            "owner": "connor100500",
+            "name": "C0r3",
+            "height": "8'6''",
+            "art": "c0r3",
+            "align_bottom": 48,
+            "align_top": 73
+        },
+        {
+            "owner": "connor100500",
+            "name": "Core",
+            "height": "8'0''",
+            "art": "core",
+            "align_bottom": 218,
+            "align_top": 130
+        },
+        {
+            "owner": "cryptic_cryptid",
+            "name": "Calluna",
+            "height": "11'2''",
+            "art": "calluna",
+            "align_bottom": 149,
+            "align_top": 167
+        },
+        {
+            "owner": "cryptic_cryptid",
+            "name": "Nyla Vanduur",
+            "height": "6'3''",
+            "art": "nyla vanduur",
+            "align_bottom": 109,
+            "align_top": 172
+        },
+        {
+            "owner": "cryptic_cryptid",
+            "name": "M0FF",
+            "height": "6'0''",
+            "art": "m0ff",
+            "align_bottom": 121,
+            "align_top": 171
+        },
+        {
+            "owner": "darksoulz48",
+            "name": "Rulo'th (dralox form)",
+            "height": "12'0''",
+            "art": "ruloth dralox",
+            "align_bottom": 467,
+            "align_top": 0
+        },
+        {
+            "owner": "darksoulz48",
+            "name": "Rulo'th (xenojiiva form)",
+            "height": "6'8''",
+            "art": "ruloth xenojiiva",
+            "align_bottom": 79,
+            "align_top": 406
+        },
+        {
+            "owner": "dhranios",
+            "name": "Cipher",
+            "height": "200",
+            "art": "cipher",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "dhranios",
+            "name": "Excyse",
+            "height": "195",
+            "art": "excyse",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "dreamonskii",
+            "name": "Dreamy",
+            "height": "300",
+            "art": "dreamy",
+            "align_bottom": 102,
+            "align_top": 112
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Skyye (Rayquaza) ☽𓆙",
+            "height": "70'0''",
+            "art": "skyye rayquaza",
+            "align_bottom": 0,
+            "align_top": 311
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Lyn ❀",
+            "height": "28'0''",
+            "art": "lyn",
+            "align_bottom": 90,
+            "align_top": 46
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Cloud (full size) ☽◯☾",
+            "height": "25'0''",
+            "art": "cloud",
+            "align_bottom": 54,
+            "align_top": 202
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Cloud (anthro) ☽◯☾",
+            "height": "11'0''",
+            "art": "cloud",
+            "align_bottom": 54,
+            "align_top": 202
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Skyye Rivera ☽𓆙",
+            "height": "300",
+            "art": "skyye rivera",
+            "align_bottom": 68,
+            "align_top": 85
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Cloud (small) ☽◯☾",
+            "height": "8'0''",
+            "art": "cloud",
+            "align_bottom": 54,
+            "align_top": 202
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Ember 🔥",
+            "height": "7'8''",
+            "art": "ember",
+            "align_bottom": 47,
+            "align_top": 128
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Frost ❄",
+            "height": "7'8''",
+            "art": "frost",
+            "align_bottom": 47,
+            "align_top": 128
+        },
+        {
+            "owner": "eclipsethecrossfoxtaur",
+            "name": "Eclipse ☽◯☾",
+            "height": "7'7.75''",
+            "art": "eclipse",
+            "align_bottom": 176,
+            "align_top": 145
+        },
+        {
+            "owner": "emma69lilu",
+            "name": "Naxa",
+            "height": "195",
+            "art": "naxa",
+            "align_bottom": 62,
+            "align_top": 203
+        },
+        {
+            "owner": "emma69lilu",
+            "name": "Nivergo",
+            "height": "195",
+            "art": "nivergo",
+            "align_bottom": 20,
+            "align_top": 148
+        },
+        {
+            "owner": "emma69lilu",
+            "name": "Bruce",
+            "height": "165",
+            "art": "bruce",
+            "align_bottom": 72,
+            "align_top": 95
+        },
+        {
+            "owner": "emma69lilu",
+            "name": "Fixo",
+            "height": "165",
+            "art": "fixo",
+            "align_bottom": 114,
+            "align_top": 116
+        },
+        {
+            "owner": "frostytd",
+            "name": "Echo-7193",
+            "height": "10'2''",
+            "art": "echo-7193",
+            "align_bottom": 67,
+            "align_top": 83
+        },
+        {
+            "owner": "funkytuna101",
+            "name": "Tunr",
+            "height": "5'10''",
+            "art": "tunr",
+            "align_bottom": 129,
+            "align_top": 110
+        },
+        {
+            "owner": "funkytuna101",
+            "name": "Light Unit",
+            "height": "5'8''",
+            "art": "light unit",
+            "align_bottom": 42,
+            "align_top": 70
+        },
+        {
+            "owner": "ghost5090",
+            "name": "Ghost",
+            "height": "200",
+            "art": "ghost",
+            "align_bottom": 89,
+            "align_top": 193
+        },
+        {
+            "owner": "iceburn_knight",
+            "name": "Va'lin Te-Karum",
+            "height": "12'3''",
+            "art": "valin te karum",
+            "align_bottom": 68,
+            "align_top": 0
+        },
+        {
+            "owner": "jdmdriftx",
+            "name": "J.Drifku Frostaria",
+            "height": "5'9''",
+            "art": "j drifku frostaria",
+            "align_bottom": 296,
+            "align_top": 423
+        },
+        {
+            "owner": "johnhunyadi",
+            "name": "Sapphire",
+            "height": "10'0''",
+            "art": "sapphire",
+            "align_bottom": 42,
+            "align_top": 71
+        },
+        {
+            "owner": "kasher_cs",
+            "name": "Kašer",
+            "height": "330",
+            "art": "kaser",
+            "align_bottom": 56,
+            "align_top": 96
+        },
+        {
+            "owner": "kasher_cs",
+            "name": "Kiru",
+            "height": "2'9''",
+            "art": "kiru",
+            "align_bottom": 26,
+            "align_top": 163
+        },
+        {
+            "owner": "koden_the_synth",
+            "name": "Kodenith",
+            "height": "8'2''",
+            "art": "kodenith",
+            "align_bottom": 148,
+            "align_top": 47
+        },
+        {
+            "owner": "korinnyuulath",
+            "name": "RulOS",
+            "height": "184",
+            "art": "rulos",
+            "align_bottom": 148,
+            "align_top": 111
+        },
+        {
+            "owner": "laggron42",
+            "name": "Laggron",
+            "height": "195",
+            "art": "laggron",
+            "align_bottom": 105,
+            "align_top": 57
+        },
+        {
+            "owner": "lexi_da_sexy",
+            "name": "S.p.a.r.k",
+            "height": "7'8''",
+            "art": "spark",
+            "align_bottom": 40,
+            "align_top": 33
+        },
+        {
+            "owner": "liu_kon",
+            "name": "C-Able",
+            "height": "6'2''",
+            "art": "c able",
+            "align_bottom": 258,
+            "align_top": 108
+        },
+        {
+            "owner": "local_furry_robot",
+            "name": "Maxwell Middleton",
+            "height": "6'5''",
+            "art": "maxwell middleton",
+            "align_bottom": 108,
+            "align_top": 47
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Aster (lion, hyena, deer hybrid)",
+            "height": "20'0''",
+            "art": "aster hybrid",
+            "align_bottom": 53,
+            "align_top": 75
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Aster (wereworlf)",
+            "height": "6'4''",
+            "art": "aster werewolf",
+            "align_bottom": 25,
+            "align_top": 55
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Lyre (dragon)",
+            "height": "6'1''",
+            "art": "lyre dragon",
+            "align_bottom": 33,
+            "align_top": 72
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Stellar (wolf)",
+            "height": "6'0''",
+            "art": "stellar wolf",
+            "align_bottom": 29,
+            "align_top": 58
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Aster (human)",
+            "height": "5'4''",
+            "art": "aster human",
+            "align_bottom": 9,
+            "align_top": 17
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Aster (protogen)",
+            "height": "5'4''",
+            "art": "aster protogen",
+            "align_bottom": 64,
+            "align_top": 57
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Aster (racoon)",
+            "height": "5'4''",
+            "art": "aster racoon",
+            "align_bottom": 30,
+            "align_top": 51
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Corhyn (bear)",
+            "height": "5'4''",
+            "art": "corhyn bear",
+            "align_bottom": 42,
+            "align_top": 19
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Corhyn (tiger)",
+            "height": "5'4''",
+            "art": "corhyn tiger",
+            "align_bottom": 37,
+            "align_top": 62
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Lyre (doggo)",
+            "height": "5'4''",
+            "art": "lyre doggo",
+            "align_bottom": 70,
+            "align_top": 60
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Reed",
+            "height": "5'4''",
+            "art": "reed",
+            "align_bottom": 33,
+            "align_top": 28
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Stellar (ferret)",
+            "height": "5'4''",
+            "art": "stellar ferret",
+            "align_bottom": 35,
+            "align_top": 36
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Chip",
+            "height": "5'0''",
+            "art": "chip",
+            "align_bottom": 33,
+            "align_top": 72
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Fathom (moth)",
+            "height": "4'11''",
+            "art": "fathom moth",
+            "align_bottom": 63,
+            "align_top": 37
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Fathom (poochena)",
+            "height": "4'11''",
+            "art": "fathom poochena",
+            "align_bottom": 18,
+            "align_top": 103
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Konu",
+            "height": "2'9''",
+            "art": "konu",
+            "align_bottom": 22,
+            "align_top": 81
+        },
+        {
+            "owner": "mysterycutie0622",
+            "name": "Lindhart",
+            "height": "0'7''",
+            "art": "lindhart",
+            "align_bottom": 17,
+            "align_top": 32
+        },
+        {
+            "owner": "neovio_",
+            "name": "Vilvo",
+            "height": "180",
+            "art": "vilvo",
+            "align_bottom": 26,
+            "align_top": 41
+        },
+        {
+            "owner": "qnectd",
+            "name": "Vikri",
+            "height": "195",
+            "art": "vikri",
+            "align_bottom": 45,
+            "align_top": 49
+        },
+        {
+            "owner": "razanth",
+            "name": "Celdryn",
+            "height": "8'10''",
+            "art": "celdryn",
+            "align_bottom": 9,
+            "align_top": 1010
+        },
+        {
+            "owner": "razanth",
+            "name": "Razanth",
+            "height": "4'8''",
+            "art": "razanth",
+            "align_bottom": 3,
+            "align_top": 161
+        },
+        {
+            "owner": "resultedtree",
+            "name": "Flake (loafing)",
+            "height": "14'0''",
+            "art": "flake loafing",
+            "align_bottom": 384,
+            "align_top": 140
+        },
+        {
+            "owner": "ry_the_synthetic",
+            "name": "Ry",
+            "height": "231",
+            "art": "ry",
+            "align_bottom": 28,
+            "align_top": 46
+        },
+        {
+            "owner": "scornthedragonking",
+            "name": "Quasar",
+            "height": "5'5''",
+            "art": "quasar",
+            "align_bottom": 67,
+            "align_top": 71
+        },
+        {
+            "owner": "shadowfire8346",
+            "name": "Bizmut",
+            "height": "180",
+            "art": "bizmut",
+            "align_bottom": 89,
+            "align_top": 314
+        },
+        {
+            "owner": "spectre9817",
+            "name": "Kodi Razanath",
+            "height": "8'2''",
+            "art": "kodi razanath",
+            "align_bottom": 112,
+            "align_top": 0
+        },
+        {
+            "owner": "submerg",
+            "owner_name": "submerg.",
+            "name": "Chip",
+            "height": "5'9''",
+            "art": "chip",
+            "align_bottom": 71,
+            "align_top": 338
+        },
+        {
+            "owner": "surertundra",
+            "name": "Tomo (sitting)",
+            "height": "6'2''",
+            "art": "tomo sitting",
+            "align_bottom": 429,
+            "align_top": 143
+        },
+        {
+            "owner": "surertundra",
+            "name": "Tundra Decaera",
+            "height": "5'6''",
+            "art": "tundra decaera",
+            "align_bottom": 0,
+            "align_top": 16
+        },
+        {
+            "owner": "tcbudders",
+            "name": "Budder",
+            "height": "189",
+            "art": "budder",
+            "align_bottom": 34,
+            "align_top": 147
+        },
+        {
+            "owner": "thatman023",
+            "name": "Club '28'",
+            "height": "385",
+            "art": "club 28",
+            "align_bottom": 52,
+            "align_top": 0
+        },
+        {
+            "owner": "thatman023",
+            "name": "King",
+            "height": "385",
+            "art": "king",
+            "align_bottom": 52,
+            "align_top": 0
+        },
+        {
+            "owner": "thatman023",
+            "name": "Spade",
+            "height": "385",
+            "art": "spade",
+            "align_bottom": 52,
+            "align_top": 0
+        },
+        {
+            "owner": "thatman023",
+            "name": "X",
+            "height": "385",
+            "art": "x",
+            "align_bottom": 52,
+            "align_top": 0
+        },
+        {
+            "owner": "thatman023",
+            "name": "Gh0st",
+            "height": "6'5''",
+            "art": "gh0st",
+            "align_bottom": 184,
+            "align_top": 84
+        },
+        {
+            "owner": "thatman023",
+            "name": "Andr3w",
+            "height": "6'2''",
+            "art": "andr3w",
+            "align_bottom": 189,
+            "align_top": 85
+        },
+        {
+            "owner": "thatman023",
+            "name": "B1te",
+            "height": "5'11''",
+            "art": "b1te",
+            "align_bottom": 104,
+            "align_top": 54
+        },
+        {
+            "owner": "thatman023",
+            "name": "Echo",
+            "height": "5'7''",
+            "art": "echo",
+            "align_bottom": 104,
+            "align_top": 54
+        },
+        {
+            "owner": "the_lurking_creatures",
+            "name": "Ferno",
+            "height": "5'8''",
+            "art": "ferno",
+            "align_bottom": 27,
+            "align_top": 65
+        },
+        {
+            "owner": "the_lurking_creatures",
+            "name": "Blaze",
+            "height": "5'5''",
+            "art": "blaze",
+            "align_bottom": 27,
+            "align_top": 17
+        },
+        {
+            "owner": "thellygoof",
+            "name": "Thel'",
+            "height": "7'0''",
+            "art": "thel",
+            "align_bottom": 185,
+            "align_top": 106
+        },
+        {
+            "owner": "theshmexisme",
+            "name": "Shmex",
+            "height": "6'5''",
+            "art": "shmex",
+            "align_bottom": 126,
+            "align_top": 84
+        },
+        {
+            "owner": "totallynormally_normal",
+            "name": "Izek",
+            "height": "177",
+            "art": "izek",
+            "align_bottom": 26,
+            "align_top": 84
+        },
+        {
+            "owner": "warpthesynth",
+            "name": "Warp",
+            "height": "7'8''",
+            "art": "warp",
+            "align_bottom": 236,
+            "align_top": 68
+        },
+        {
+            "owner": "xander_",
+            "owner_name": "xander_.",
+            "name": "Luna",
+            "height": "3'5''",
+            "art": "luna",
+            "align_bottom": 20,
+            "align_top": 202
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Yairden (dragon)",
+            "height": "13'0''",
+            "art": "yairden dragon",
+            "align_bottom": 770,
+            "align_top": 204
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Yairden (synth)",
+            "height": "13'0''",
+            "art": "yairden synth",
+            "align_bottom": 100,
+            "align_top": 56
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Jaran",
+            "height": "8'5''",
+            "art": "jaran",
+            "align_bottom": 143,
+            "align_top": 42
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Regal",
+            "height": "8'2''",
+            "art": "regal",
+            "align_bottom": 41,
+            "align_top": 55
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Pardigri",
+            "height": "7'0''",
+            "art": "pardigri",
+            "align_bottom": 95,
+            "align_top": 32
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Drago Jouper",
+            "height": "6'6''",
+            "art": "drago jouper",
+            "align_bottom": 17,
+            "align_top": 29
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Neptune",
+            "height": "6'0''",
+            "art": "neptune",
+            "align_bottom": 51,
+            "align_top": 57
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Cueper Jouper",
+            "height": "5'8''",
+            "art": "cueper jouper",
+            "align_bottom": 53,
+            "align_top": 34
+        },
+        {
+            "owner": "yairpridi",
+            "name": "Catto Jouper",
+            "height": "5'7''",
+            "art": "catto jouper",
+            "align_bottom": 30,
+            "align_top": 83
+        },
+        {
+            "owner": "zamirax_33",
+            "name": "Zamirax",
+            "height": "285",
+            "art": "zamirax",
+            "align_bottom": 97,
+            "align_top": 116
+        },
+        {
+            "owner": "zubeia_synthbee",
+            "name": "Beezlebub",
+            "height": "7'7''",
+            "art": "beezlebub",
+            "align_bottom": 118,
+            "align_top": 390
+        }
+    ]
+    
+}
