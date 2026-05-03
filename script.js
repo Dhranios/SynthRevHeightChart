@@ -2,6 +2,7 @@ const chart = document.getElementById('chart');
 let parsedEntries = [];
 let serverCharts = [];
 let parsedOwners = [];
+let ownersEntries = [];
 let processingFiles = [
   "entries.json"
 ]
@@ -90,6 +91,8 @@ fetch("entries.json").then(response => response.json()).then(data => {
           processingFiles.push("entries/" + o + "/entries.json");
           fetch("entries/" + o + "/entries.json").then(response => response.json()).then(ownerdata => {
             console.log("Parsing owner:", o);
+            const ownerEntry = new Owner(o, ownerdata.owner_name);
+            ownersEntries.push(ownerEntry);
             ownerdata.entries.forEach(e => {
               const entry = new Entry(
                 o,
@@ -141,6 +144,15 @@ async function continueProcessing() {
   await waitUntilProcessed(processingFiles, processedFiles);
   //When all images are loaded to memory, set positions
   Promise.all(parsedEntries.map(entry => waitForImage(entry.img))).then(() => {
+    serverCharts.forEach(c => {
+      c.ownerIDs.forEach(o => {
+        ownersEntries.forEach(OwnerEntry => {
+          if (OwnerEntry.GetID() == o) {
+            c.AddOwner(OwnerEntry);
+          }
+        });
+      });
+    });
     //Sort all entries from tallest to shortest
     parsedEntries.sort((a, b) => {
       if (b.heightCm == a.heightCm) {
@@ -166,17 +178,16 @@ async function continueProcessing() {
 }
 continueProcessing();
 function layout() {
-  console.log("LAYOUT");
+  console.log("Layout updating");
   let maxAlignBottom = 0;
   maxHeight = 70;
   parsedEntries.forEach(entry => {
     if (!entry.hidden) {
       maxHeight = Math.max(maxHeight, entry.heightCm + entry.alignTop + 54); //54 for the text
       maxAlignBottom = Math.max(maxAlignBottom, entry.alignBottom);
-      console.log("NEW height: " + maxHeight + ", align: " + maxAlignBottom + ", VS align:" + entry.alignBottom);
     }
   });
-  console.log("FINAL height: " + maxHeight + ", align: " + maxAlignBottom);
+  console.log("height: " + maxHeight + ", align: " + maxAlignBottom);
   chart.style.height = `${maxHeight + maxAlignBottom}px`;
   chart.innerHTML = "";
   nextElementX = 0;
@@ -233,11 +244,15 @@ function setChart(serverChart) {
   }
   selectedChart.GetOwners().forEach(o => {
     const ownerSelectorOption = document.createElement("option");
-    ownerSelectorOption.value = o;
-    ownerSelectorOption.textContent = o;
+    ownerSelectorOption.value = o.GetID();
+    ownerSelectorOption.textContent = o.GetName();
     ownerSelector.appendChild(ownerSelectorOption);
   });
-  setFilter(selectedChart.GetOwners())
+  let ownerFilter = []
+  selectedChart.GetOwners().forEach(o => {
+    ownerFilter.push(o.GetID());
+  });
+  setFilter(ownerFilter);
 }
 function setFilter(owners) {
   console.log("Selected owners: " + owners);
@@ -251,13 +266,30 @@ class Chart {
   constructor(id, name, owners) {
     this.id = id;
     this.name = name;
-    this.owners = owners;
+    this.ownerIDs = owners;
+    this.owners = [];
+  }
+  AddOwner(owner) {
+    return this.owners.push(owner);
   }
   GetName() {
     return this.name;
   }
   GetOwners() {
     return this.owners;
+  }
+  GetID() {
+    return this.id;
+  }
+}
+
+class Owner {
+  constructor(id, name) {
+    this.id = id;
+    this.name = name ?? id;
+  }
+  GetName() {
+    return this.name;
   }
   GetID() {
     return this.id;
