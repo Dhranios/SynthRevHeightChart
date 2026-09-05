@@ -9,6 +9,13 @@
             "align_top": 60
         },
         {
+            "name": "Arulea",
+            "height": "5'2''",
+            "art": "arulea",
+            "align_bottom": 126,
+            "align_top": 73
+        },
+        {
             "name": "Kalcius (cyborg)",
             "height": "4'11''",
             "art": "kalcius cyborg",
